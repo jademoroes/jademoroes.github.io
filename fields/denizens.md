@@ -1,9 +1,9 @@
 [« Back](https://jademoroes.github.io)<br>
 
-Presumably, in the Perimeter are a number of versions of myself. Here is a census of all of the known denizens of the Perimeters. These are native, not to be confused with [Guests, or Paras](), who are walk-ins and the objects of maladaptive daydreaming.<br>
+Presumably, in the Perimeter are a number of versions of myself. Here is a census of all of the known denizens of the Perimeters. These are native, not to be confused with [Guests, or Paras](), who are walk-ins and the objects of maladaptive daydreaming. Each name is a dropdown.<br>
 <br>
 <details>
-  <summary>Amadeus Swift</summary>
+  <summary>» Amadeus Swift</summary>
   ━━━━༻🎀༺━━━━<br>
   Age: 19<br>
   Pronouns: any<br>
@@ -21,7 +21,7 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
   <i>It is also possible that Amadeus's name was pulled straight from Amadeus Mozart, considering his affinity for music.</i><br>
 </details>
 <details>
-  <summary>Basilius Valentine</summary>
+  <summary>» Basilius Valentine</summary>
   ━━━━༻♣️༺━━━━<br>
   Age: 26<br>
   Pronouns: he/him, they/them<br>
@@ -40,7 +40,7 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
   <i>Basil is the esoteric Victorian Cowboy of the system, a seeker of divine and mystical knowledge. Despite this, he's pretty grounded. He was originally known as William, but merged overtime into the occultist we all know and love.</i><br>
 </details>
 <details>
-  <summary>Fen Yè-Swift</summary>
+  <summary>» Fen Yè-Swift</summary>
   ━━━━༻🕊️༺━━━━<br>
   Age: 17~19<br>
   Pronouns: she/her, they/them<br>
@@ -60,7 +60,7 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
   <i>Fen is a reflection of us at the age of 14~16. She wears a plague doctor's outfit, and enjoys all things she deems cute. She has aged slightly, and has no knowledge of trauma.</i><br>
 </details>
 <details>
-  <summary>Jasque Becque</summary>
+  <summary>» Jasque Becque</summary>
   ━━━━༻♠️༺━━━━<br>
   Age: 36<br>
   Pronouns: he/him<br>
@@ -80,7 +80,7 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
   <i>Jasque is the protector of the Perimeter, as well as the gatekeeper, protecting who enters and leaves the Lounge.</i><br>
 </details>
 <details>
-  <summary>Jiichiro Mori (森 治一郎)</summary>
+  <summary>» Jiichiro Mori (森 治一郎)</summary>
   ━━━━༻🍬༺━━━━<br>
   Age: 26<br>
   Pronouns: he/him, they/them<br>
