@@ -95,7 +95,25 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
   Religion: Buddhism<br>
   ━━━━༻🍬༺━━━━<br>
 </details>
-Johannes<br>
+<details>
+  <summary>» Johannes</summary>
+  ━━━━༻🍀༺━━━━
+  Johannes Liebert
+  Age: 22
+  Pronouns: he/him, they/them
+  Species: Human
+  ━━━༻System༺━━━
+  Role(s): Trauma Holder
+  Star: VIRGO
+  ━━༻Relationships༺━━
+  FEN: Friend
+  TARA: Caretaker
+  ━━━༻More༺━━━
+  Interests: Working
+  Religion: Judaism
+  ━━━━༻💚༺━━━━
+  <i>The only thing humans are equal in is death. —Johannes</i>
+</details>
 Luca "Lucky" Becque<br>
 Rémy Sylvaine<br>
 Talon Jiang, Marquis<br>
