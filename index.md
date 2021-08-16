@@ -35,5 +35,5 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
     - Music
     - Other
   - Short Stories
-  - Other
+  - Other</br>
 ⋆ ———————————————————————————————————————————————— ⋆
