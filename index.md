@@ -13,12 +13,12 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
   - Laments
   - Para Interactions
 - Systems
-  - Anlwn
   - Astrology 
   - Esoterica
   - Language Status Denotation System (LSDS)
 - Worldbuilding
   - Conlangs
+    - Anlwn
     - Austronesian Auxlang (WIP)
     - Ayuʂ
     - Ma'i Tomo
