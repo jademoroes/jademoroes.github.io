@@ -1,2 +1,2 @@
 [« Back](https://jademoroes.github.io)<br>
-Feb. 24, 2021 — [An Inquiry on Childhood, Duality, & Nature]() 
+Feb. 24, 2021 — [An Inquiry on Childhood, Duality, & Nature](https://jademoroes.github.io/essays/childhood-and-duality) 
