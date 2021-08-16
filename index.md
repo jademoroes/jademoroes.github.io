@@ -11,6 +11,7 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
   - The Perimeter
 - Logs
   - Dream Journal
+  - Everyday Fascinations
   - Laments
   - Para Interactions
 - Systems
