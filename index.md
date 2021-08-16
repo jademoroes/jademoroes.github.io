@@ -27,7 +27,7 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
     - Tsuzda / Цoyꙁдa
     - Zhaiyan
 - Writings
-  - Essays 
+  - [Essays](https://jademoroes.github.io/essays/home) 
   - Poetry
   - Reviews
     - Film
