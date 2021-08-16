@@ -1,4 +1,4 @@
-[« Back](https://jademoroes.github.io)<br>
+[« Back](https://jademoroes.github.io/essays/home)<br>
 # An Inquiry on Childhood, Duality, & Nature<br>
 When I was younger, I wanted to be seen by adults as an equal, whose thoughts were worthy of consideration. To my dismay, this desire was largely ignored, and I was looked down upon by those older than me— whether they be adults, or my peers. In European and American society, children are characterized as naïve, unintelligent, and innocent, spare the few children who have been proven otherwise, and afterwards sensationalized. <br>
 
