@@ -11,7 +11,7 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
   - The Perimeter
 - Logs
   - Dream Journal
-  - Everyday Fascinations
+  - [Everyday Fascinations](https://jademoroes.github.io/fascinations)
   - Laments
   - Para Interactions
 - Systems
