@@ -6,7 +6,7 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
 ⋆ ————————————————————◦°•✩•°◦ ———————————————————— ⋆
 ### Index
 - Flower Fields
-  - Denizens
+  - [Denizens](https://jademoroes.github.io/fields/denizens)
   - Guests, or "Paras"
   - The Perimeter
 - Logs
