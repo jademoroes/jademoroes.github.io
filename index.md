@@ -1,3 +1,36 @@
 ## The Library
 
 Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. Sit with us, and have a drink of tea. It's chai. 
+
+
+### Index
+- Flower Fields
+  - Denizens
+  - Guests, or "Paras"
+  - The Perimeter
+- Logs
+  - Dream Journal
+  - Laments
+- Systems
+  - Anlwn
+  - Astrology 
+  - Esoterica
+  - Language Status Denotation System (LSDS)
+- Worldbuilding
+  - Conlangs
+    - Austronesian Auxlang (WIP)
+    - Ayuʂ
+    - Ma'i Tomo
+    - Tsuzda / Цoyꙁдa
+    - Zhaiyan
+- Writings
+  - Essays 
+  - Poetry
+  - Reviews
+    - Film
+    - Games
+    - Literature
+    - Music
+    - Other
+  - Short Stories
+  - Other
