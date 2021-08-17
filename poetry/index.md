@@ -11,6 +11,7 @@ Apr. 27, 2021 — A World, Ablaze
 Feb. 31, 2021 — 火
 Jan. 16, 2021 — Tzipporah
 Jan. 13, 2021 — John's Lament
+Dec. 24, 2020 — Galatea
 Dec. 09, 2020 — A Beloved, Obscured
 Nov. 01, 2020 — Severed Flight
 Oct. 31, 2020 — The Winter Waltz
