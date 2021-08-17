@@ -9,4 +9,4 @@ Not only is Penguin Cafe Orchestra diverse in their expression, but also in thei
 Despite Jeffes's unfortunate death to a brain tumor in 1997, his legacy lives on in his brilliant works. Penguin Cafe Orchestra is an album so filled with raw emotion, passion, and love that it will leave you crying despite its captivated wonder. It is not simply an album, but a lament for the journey of self-realisation that we all must endure as we spontaneously grow- a journey that never ends until our passing.<br>
 <br>
 "I am the proprietor of the Penguin Cafe, I will tell you things at random."<br>
-*-Simon Jeffes*<br>
+<i>-Simon Jeffes</i><br>
