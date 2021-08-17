@@ -1,0 +1,9 @@
+# The Last Czars: A Retrospective<br>
+<br>
+Being a student of Russian history as well as a film enthusiast, I was intrigued to see a docudrama dealing with the time frame of Nicholas II. Immediately, I noticed that the reviews are invariably mixed; some hold it in praise, and some say the show is left with not a feather to fly with. Renewing the complex tale of Nicholas II and his house is difficult, and more often than not proves a Newcastle programme.<br>
+<br>
+Gorgeously filmed, with plenty extras to fill the view, The Last Czars was, by all means, exquisitely produced. It comprises all sorts of costumes which catch the eye while matching admirably with history. Actors play their roles reasonably well, and resemble the faces of old, spare for Sergei Alexandrovich— though I do not dislike the changes made, for it gives him a larger character, even if less intimidating (here, he looks more a bureaucrat than a mysterious wizard).<br>
+<br>
+I did expect a lower bar of historicity, as is oft the case for dramas, and I do have complaints. Ivan Kalyayev was not shot, but hanged; "The Black Princesses" is a false moniker; much of what Rasputin was claimed to do, there is little evidence of. Overlooked was a favourite of mine, Grand Duke Michael Alexandrovich, who was given the throne by Nicholas II after his abdication, and was the first to be killed. Additionally overlooked were the servants of the family, who joined the angels with them in the Ipatiev House.<br>
+<br>
+Taking the side of the Romanovs over the Bolsheviks and dismissing several negative myths around them, ignored are both the reasons of the uprising, and the common people. Brewing was a perfect storm, but only two (albeit large) clouds of hundreds were pointed towards. Ultimately, the interesting complexity of the end of Romanov rule was forgone in favour of a milquetoast drama, reminiscent of bones without a body. The Last Czars is truly a sad waste of beauty.<br>
