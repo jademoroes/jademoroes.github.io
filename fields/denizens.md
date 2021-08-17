@@ -97,21 +97,21 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
 </details>
 <details>
   <summary>» Johannes</summary>
-  ━━━━༻🍀༺━━━━
-  Johannes Liebert
-  Age: 22
-  Pronouns: he/him, they/them
-  Species: Human
-  ━━━༻System༺━━━
-  Role(s): Trauma Holder
-  Star: VIRGO
-  ━━༻Relationships༺━━
-  FEN: Friend
-  TARA: Caretaker
-  ━━━༻More༺━━━
-  Interests: Working
-  Religion: Judaism
-  ━━━━༻💚༺━━━━
+  ━━━━༻🍀༺━━━━<br>
+  Johannes Liebert<br>
+  Age: 22<br>
+  Pronouns: he/him, they/them<br>
+  Species: Human<br>
+  ━━━༻System༺━━━<br>
+  Role(s): Trauma Holder<br>
+  Star: VIRGO<br>
+  ━━༻Relationships༺━━<br>
+  FEN: Friend<br>
+  TARA: Caretaker<br>
+  ━━━༻More༺━━━<br>
+  Interests: Working<br>
+  Religion: Judaism<br>
+  ━━━━༻💚༺━━━━<br>
   <i>The only thing humans are equal in is death. —Johannes</i>
 </details>
 Luca "Lucky" Becque<br>
