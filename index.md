@@ -33,7 +33,7 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
     - [Film & TV](https://jademoroes.github.io/reviews/film)
     - Games
     - Literature
-    - Music
+    - [Music](https://jademoroes.github.io/reviews/music)
     - Other
   - Short Stories
   - Other
