@@ -1,3 +1,4 @@
+[« Back](https://jademoroes.github.io/reviews/film)<br>
 # The Last Czars: A Retrospective<br>
 <br>
 Being a student of Russian history as well as a film enthusiast, I was intrigued to see a docudrama dealing with the time frame of Nicholas II. Immediately, I noticed that the reviews are invariably mixed; some hold it in praise, and some say the show is left with not a feather to fly with. Renewing the complex tale of Nicholas II and his house is difficult, and more often than not proves a Newcastle programme.<br>
