@@ -28,7 +28,7 @@ Welcome to the Perimeter. Many things reside here: dreams, hopes, endless love. 
     - Zhaiyan
 - Writings
   - [Essays](https://jademoroes.github.io/essays/home) 
-  - Poetry
+  - [Poetry](https://jademoroes.github.io/poetry/index)
   - Reviews
     - Film
     - Games
