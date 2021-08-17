@@ -98,7 +98,6 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
 <details>
   <summary>» Johannes</summary>
   ━━━━༻🍀༺━━━━<br>
-  Johannes Liebert<br>
   Age: 22<br>
   Pronouns: he/him, they/them<br>
   Species: Human<br>
@@ -114,8 +113,93 @@ Presumably, in the Perimeter are a number of versions of myself. Here is a censu
   ━━━━༻💚༺━━━━<br>
   <i>The only thing humans are equal in is death. —Johannes</i>
 </details>
-Luca "Lucky" Becque<br>
-Rémy Sylvaine<br>
-Talon Jiang, Marquis<br>
-Tara Azhar<br>
-Max<br>
+<details>
+  <summary>» Luca "Lucky" Becque</summary>
+  ━━━━༻♦️༺━━━━<br>
+  Age: 38<br>
+  Pronouns: he/him preferred, any<br>
+  Species: Demon<br>
+  ━━━༻System༺━━━<br>
+  Role(s): Trauma Holder<br>
+  Star: ARIES<br>
+  ━━༻Relationships༺━━<br>
+  BASIL: Lover<br>
+  FEN: Mistress<br>
+  JASQUE: Brother<br>
+  ━━━༻More༺━━━<br>
+  Interests: Fun<br>
+  Religion: N/A<br>
+  ━━━━༻🎱༺━━━━<br>
+  <i>Luck be a lady... —Lucky</i>
+</details>
+<details>
+  <summary>» Rémy Sylvaine</summary>
+    ━━━━༻🍡༺━━━━<br>
+  Age: 16<br>
+  Pronouns: he/him, they/them<br>
+  Species: Vampire<br>
+  ━━━༻System༺━━━<br>
+  Role(s): Trauma Holder<br>
+  Star: CANCER<br>
+  ━━༻Relationships༺━━<br>
+  N/A
+  ━━━༻More༺━━━<br>
+  Interests: Italian Renaissance<br>
+  Religion: Buddhism<br>
+  ━━━━༻🌷༺━━━━<br>
+</details>
+<details>
+  <summary>» Talon Jiang, Marquis</summary>
+  ━━━━༻⚖️༺━━━━<br>
+  Age: 200+<br>
+  Pronouns: he/him<br>
+  Species: Angel<br>
+  ━━━༻System༺━━━<br>
+  Role(s): Protector, Persecutor, Trauma Holder<br>
+  Star: SCORPIO<br>
+  ━━༻Relationships༺━━<br>
+  FEN: Has guardianship of<br>
+  ━━━༻More༺━━━<br>
+  Interests: Nobility, Religion<br>
+  Religion: Christianity (Anglican)<br>
+  ━━━━༻🏹༺━━━━<br>
+  The God Emperor has arrived. —Talon<br>
+  <i>Talon is an internalization of a prior lover, mixed with a few other things. It's confusing.</i>
+</details>
+<details>
+  <summary>» Tara Azhar</summary>
+  ━━━━༻🍒༺━━━━<br>
+  Age: 30<br>
+  Pronouns: she/her<br>
+  Species: Human<br>
+  ━━━༻System༺━━━<br>
+  Role(s): Caretaker<br>
+  Star: LIBRA<br>
+  ━━༻Relationships༺━━<br>
+  FEN: Caretaker of<br>
+  JASQUE: Lover<br>
+  JOHANNES: Caretaker of<br>
+  ━━━༻More༺━━━<br>
+  Interests: Dream Interpretation, Tea<br>
+  Religion: Islam<br>
+  ━━━━༻🌸༺━━━━<br>
+  <i>Peace be upon you. —Tara</i><br>
+  <i>Tara is the caretaker of Fen and Johannes, the two most "sensitive" alters. She is caring, but can be stark and blunt.</i>
+</details>
+<details>
+  <summary>» Max</summary>
+  ━━━━༻◼️༺━━━━<br>
+  Age: N/A<br>
+  Pronouns: any<br>
+  Species: Human?<br>
+  ━━━༻System༺━━━<br>
+  Role(s): Persecutor<br>
+  Star: CAPRICORN<br>
+  ━━༻Relationships༺━━<br>
+  N/A<br>
+  ━━━༻More༺━━━<br>
+  Interests: N/A<br>
+  Religion: N/A<br>
+  ━━━━༻◼️༺━━━━<br>
+  <i>Pure chaos. Likely an extrapolation of a prior lover.</i>
+</details>
